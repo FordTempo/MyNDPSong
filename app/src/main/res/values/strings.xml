@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SongSaver</string>
+    <string name="title">Song Title</string>
+    <string name="Singers">Singers</string>
+    <string name="Year">Year</string>
+    <string name="Insert">Insert</string>
+    <string name="sList">Show List</string>
+
+</resources>
